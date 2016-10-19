@@ -1,8 +1,10 @@
 ﻿# contactAPI
+ #An example of REST API in Node.js
 Requirements:
 npm install express;
 npm install body-parser;
 npm install mysql;
+Extract the files from node_modules.zip in the root folder level (../contactAPI/node_modules);
 
 ln - line;
 
