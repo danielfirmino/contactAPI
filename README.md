@@ -1,8 +1,7 @@
-﻿# contactAPI
- #An example of REST API in Node.js
-Requirements:
-npm install express;
-npm install body-parser;
+﻿# contactAPI - An example of REST API in Node.js
+ Requirements:
+npm install express; <br>
+npm install body-parser;<br>
 npm install mysql;
 Extract the files from node_modules.zip in the root folder level (../contactAPI/node_modules);
 
