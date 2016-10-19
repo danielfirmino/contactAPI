@@ -1,0 +1,13 @@
+{
+  "name": "agenda-api",
+  "version": "0.0.0",
+  "description": "AgendaAPI",
+  "main": "app.js",
+  "author": {
+    "name": "daniel.firmino"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
